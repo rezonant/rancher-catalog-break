@@ -1,0 +1,5 @@
+name: "Break Rancher"
+description: |
+  This catalog entry will trigger a size limitation bug in Rancher. 
+version: 1.0
+category: Misc
